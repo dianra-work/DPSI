@@ -1,0 +1,11 @@
+# MEMBUAT APLIKASI MENGELOLA BARANG DAN LAPORAN
+
+# AUTHOR
+
+Nama :
+
+Dianra Aulisyah Tanjung
+
+NIM :
+
+2200016093
